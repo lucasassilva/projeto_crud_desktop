@@ -1,0 +1,32 @@
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe.config
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.pdb
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csprojResolveAssemblyReference.cache
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Form1.resources
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Properties.Resources.resources
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.GenerateResource.Cache
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.exe
+c:\users\lasilva-inf171\documents\visual studio 2012\Projects\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.pdb
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe.config
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.exe
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.pdb
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.pdb
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Form1.resources
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Properties.Resources.resources
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.GenerateResource.Cache
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.CoreCompileInputs.cache
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\MySql.Data.dll
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.CopyComplete
+C:\Users\LASilva-inf171\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe.config
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.exe
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\bin\Debug\PROJETOCRUD.pdb
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Form1.resources
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.Properties.Resources.resources
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.GenerateResource.cache
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.csproj.CopyComplete
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.exe
+C:\Users\Maquina\Desktop\PROJETOCRUD\PROJETOCRUD\obj\Debug\PROJETOCRUD.pdb
